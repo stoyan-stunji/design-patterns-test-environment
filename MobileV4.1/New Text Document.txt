@@ -1,0 +1,8 @@
+wrapper
+
+notifier -> adapter!, fasade, proxy
+
+observer pattern
+
+
+
